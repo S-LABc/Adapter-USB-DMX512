@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Адаптер_USB-DMX512.SchDoc
+Record=SheetSymbol|SourceDocument=Адаптер_USB-DMX512.SchDoc|Designator=Коммутация|SchDesignator=Коммутация|FileName=Коммутация.SchDoc|SymbolType=Normal|RawFileName=Коммутация.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Адаптер_USB-DMX512.SchDoc|Designator=Преобразователь|SchDesignator=Преобразователь|FileName=Преобразователь.SchDoc|SymbolType=Normal|RawFileName=Преобразователь.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
